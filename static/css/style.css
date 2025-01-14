@@ -36,7 +36,23 @@
     color: #ffdd57; /* Yellow color on hover */
 }
 
-body {
+.col-md-5 img {
     max-width: 100%;
-    height: auto;
   }
+
+  
+
+  .navi {
+    padding-left: 0; /* Remove default padding */
+    margin-bottom: 0; /* Remove default margin */
+}
+.navi li {
+    display: inline-block; /* Make list items inline */
+    margin: 0 10px; /* Spacing between icons */
+  }
+
+.navi li a {
+    color: #fff;
+    text-decoration: none;
+    margin: 15px;
+}
