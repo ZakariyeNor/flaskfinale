@@ -35,3 +35,8 @@
 .social-icons a:hover {
     color: #ffdd57; /* Yellow color on hover */
 }
+
+body {
+    max-width: 100%;
+    height: auto;
+  }
