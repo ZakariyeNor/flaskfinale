@@ -1,0 +1,37 @@
+.bag {
+    background-color: rgb(39, 139, 173);
+}
+
+.page-heading {
+    color: #fff;
+    padding-top: 15px;
+
+}
+
+.page-heading span {
+    color: orange
+}
+
+.footer {
+    background-color: #007bff; /* Blue background */
+    color: white; /* White text */
+    padding: 20px 0; /* Padding for spacing */
+    text-align: center; /* Center-align content */
+}
+.social-icons ul {
+    padding-left: 0; /* Remove default padding */
+    margin-bottom: 0; /* Remove default margin */
+}
+.social-icons li {
+    display: inline-block; /* Make list items inline */
+    margin: 0 10px; /* Spacing between icons */
+}
+.social-icons a {
+    color: white; /* White icons */
+    font-size: 24px; /* Icon size */
+    transition: color 0.3s ease; /* Smooth hover effect */
+    text-decoration: none; /* Remove underline from links */
+}
+.social-icons a:hover {
+    color: #ffdd57; /* Yellow color on hover */
+}
